@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @MrRuchi
-- 👀 I’m interested in Software Engineering
+- 👋 Hi, I’m Ruchira Samarasinghe
+- 👀 I’m interested in Software Engineering & Machine Learning Engineering
+- ❤️ Love to work on Java script, Python  
 - 🌱 MERN Full stack developer
-- 📫 Follow Me 
+- 📫 Follow Me on Twitter
 
 <!---
 MrRuchi/MrRuchi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
